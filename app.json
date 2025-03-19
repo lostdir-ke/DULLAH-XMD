@@ -14,7 +14,7 @@
   "env":{
     "PREFIX": {
       "description": "choose your prefix of bot",
-      "value": ".",
+      "value": ",",
       "required": true
     },
     "AUTO_READ_STATUS": {
@@ -118,12 +118,12 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "ᴅᴜʟʟᴀʜ xᴍᴅ"
+      "value": "TREKKER"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required": false,
-      "value": "255716945971"
+      "value": "254704897825"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
@@ -157,12 +157,12 @@
       },
       "ANTIDELETE2" : {
     "description": "if you want to enable anti delete in conversation put yes else put no",
-    "value": "no",
+    "value": "yes",
         "required": false
  },
   "ANTIDELETE1" : {
     "description": "if you want to enable anti delete messages to be sent to your inbox put yes else put no",
-    "value": "no",
+    "value": "yes",
         "required": false
     }
   },
