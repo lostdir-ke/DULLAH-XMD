@@ -12,9 +12,14 @@ async function loadCommands() {
   
   for (const file of commandFiles) {
     try {
-      require(path.join(commandsDir, file));
+      const commandPath = path.join(commandsDir, file);
+      if (fs.existsSync(commandPath)) {
+        delete require.cache[require.resolve(commandPath)];
+        require(commandPath);
+        console.log(`✅ ${file} loaded successfully!`);
+      }
     } catch (error) {
-      console.error(`Error loading command ${file}:`, error);
+      console.error(`❌ Error loading ${file}:`, error.message);
     }
   }
 }

@@ -1,20 +1,13 @@
+
 'use strict';
 
-const axios = require('axios');
+const { zokou } = require("../framework/zokou");
 
-const scriptName = 'anti-sticker.js';
-const scriptUrl = `https://dullah-xmd-commands-phi.vercel.app/${scriptName}`;
-
-async function loadScript() {
-    try {
-        const response = await axios.get(scriptUrl);
-        const scriptContent = response.data;
-
-        console.log(`✅ ${scriptName} fetched and loaded successfully!`);
-        eval(scriptContent);
-    } catch (error) {
-        console.error(`❌ Error loading ${scriptName}:`, error.message);
+zokou({
+    name: "antisticker",
+    description: "Anti sticker spam protection",
+    category: "Group",
+    async function(msg, client) {
+        // Anti sticker implementation
     }
-}
-
-loadScript();
+});
