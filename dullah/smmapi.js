@@ -2,8 +2,8 @@
 const { zokou } = require("../framework/zokou");
 const axios = require("axios");
 
-const API_KEY = "fec208398d31ad017dddebcb740dc49ce8495ad5801396b5b260ce25b0292eab";
-const API_URL = "https://yoyomedia.in/api/v2";
+const API_KEY = process.env.SMM_API_KEY;
+const API_URL = process.env.SMM_API_URL;
 
 // Check Balance Command
 zokou({

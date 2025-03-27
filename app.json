@@ -164,7 +164,17 @@
     "description": "if you want to enable anti delete messages to be sent to your inbox put yes else put no",
     "value": "yes",
         "required": false
-    }
+    },
+  "SMM_API_KEY": {
+    "description": "API key for SMM panel",
+    "value": "",
+    "required": true
+  },
+  "SMM_API_URL": {
+    "description": "API URL for SMM panel",
+    "value": "https://yoyomedia.in/api/v2",
+    "required": true
+  }
   },
   "buildpacks": [
     {
