@@ -1,0 +1,267 @@
+2025-03-27T09:14:12.446375+00:00 app[worker.1]: La table 'banUser' a été créée avec succès.
+2025-03-27T09:14:12.447435+00:00 app[worker.1]: La table 'antilien' a été créée avec succès.
+2025-03-27T09:14:17.358911+00:00 app[worker.1]: Updating existing session...
+2025-03-27T09:14:17.397732+00:00 app[worker.1]: AUTO_REACT_STATUS is enabled. Listening for status updates...
+2025-03-27T09:14:17.397874+00:00 app[worker.1]: AUTO_REPLY_AUDIO is enabled. Listening for messages...
+2025-03-27T09:14:17.399261+00:00 app[worker.1]: ℹ️ dullah is connecting...
+2025-03-27T09:14:17.434111+00:00 app[worker.1]: La table 'events' a été créée avec succès.
+2025-03-27T09:14:18.233705+00:00 app[worker.1]: ✅ dullar Connected to WhatsApp! ☺️
+2025-03-27T09:14:18.233715+00:00 app[worker.1]: --
+2025-03-27T09:14:18.433873+00:00 app[worker.1]: ------
+2025-03-27T09:14:18.734517+00:00 app[worker.1]: ------------------/-----
+2025-03-27T09:14:18.734543+00:00 app[worker.1]: dullar is Online 🕸
+2025-03-27T09:14:18.734543+00:00 app[worker.1]: 
+2025-03-27T09:14:18.734543+00:00 app[worker.1]: 
+2025-03-27T09:14:18.734543+00:00 app[worker.1]: Loading dullar Commands ...
+2025-03-27T09:14:18.734544+00:00 app[worker.1]: 
+2025-03-27T09:14:18.737243+00:00 app[worker.1]: AI.js Installed Successfully✔️
+2025-03-27T09:14:18.738758+00:00 app[worker.1]: AI2.js Installed Successfully✔️
+2025-03-27T09:14:18.740361+00:00 app[worker.1]: GPT.js Installed Successfully✔️
+2025-03-27T09:14:18.741834+00:00 app[worker.1]: General.js Installed Successfully✔️
+2025-03-27T09:14:18.743388+00:00 app[worker.1]: GroupQuotes.js Installed Successfully✔️
+2025-03-27T09:14:18.744874+00:00 app[worker.1]: Lt.js Installed Successfully✔️
+2025-03-27T09:14:18.746841+00:00 app[worker.1]: Media_dl.js Installed Successfully✔️
+2025-03-27T09:14:18.748278+00:00 app[worker.1]: Mods.js Installed Successfully✔️
+2025-03-27T09:14:18.749534+00:00 app[worker.1]: Nokia.js Installed Successfully✔️
+2025-03-27T09:14:18.750826+00:00 app[worker.1]: accapitalgm.js Installed Successfully✔️
+2025-03-27T09:14:18.752107+00:00 app[worker.1]: afk.js Installed Successfully✔️
+2025-03-27T09:14:18.753367+00:00 app[worker.1]: ahack.js Installed Successfully✔️
+2025-03-27T09:14:18.754623+00:00 app[worker.1]: alive.js Installed Successfully✔️
+2025-03-27T09:14:18.755898+00:00 app[worker.1]: anime.js Installed Successfully✔️
+2025-03-27T09:14:18.757170+00:00 app[worker.1]: ans.js Installed Successfully✔️
+2025-03-27T09:14:18.758439+00:00 app[worker.1]: anti-delete.js Installed Successfully✔️
+2025-03-27T09:14:18.759721+00:00 app[worker.1]: anti-spam.js Installed Successfully✔️
+2025-03-27T09:14:18.761003+00:00 app[worker.1]: anti-sticker.js Installed Successfully✔️
+2025-03-27T09:14:18.762255+00:00 app[worker.1]: antifake.js Installed Successfully✔️
+2025-03-27T09:14:18.763548+00:00 app[worker.1]: apk.js Installed Successfully✔️
+2025-03-27T09:14:18.764812+00:00 app[worker.1]: audioedit.js Installed Successfully✔️
+2025-03-27T09:14:18.766045+00:00 app[worker.1]: beb.js Installed Successfully✔️
+2025-03-27T09:14:18.767310+00:00 app[worker.1]: bible.js Installed Successfully✔️
+2025-03-27T09:14:18.768887+00:00 app[worker.1]: bine.js Installed Successfully✔️
+2025-03-27T09:14:18.770270+00:00 app[worker.1]: blocklist.js Installed Successfully✔️
+2025-03-27T09:14:18.771610+00:00 app[worker.1]: boom.js Installed Successfully✔️
+2025-03-27T09:14:18.772886+00:00 app[worker.1]: bug.js Installed Successfully✔️
+2025-03-27T09:14:18.774164+00:00 app[worker.1]: canvascord.js Installed Successfully✔️
+2025-03-27T09:14:18.775705+00:00 app[worker.1]: chanel.js Installed Successfully✔️
+2025-03-27T09:14:18.777095+00:00 app[worker.1]: chatbot.js Installed Successfully✔️
+2025-03-27T09:14:18.778406+00:00 app[worker.1]: codetest.js Installed Successfully✔️
+2025-03-27T09:14:18.779685+00:00 app[worker.1]: conversation.js Installed Successfully✔️
+2025-03-27T09:14:18.780969+00:00 app[worker.1]: cricket.js Installed Successfully✔️
+2025-03-27T09:14:18.782233+00:00 app[worker.1]: delnote.js Installed Successfully✔️
+2025-03-27T09:14:18.783608+00:00 app[worker.1]: deobfuscate.js Installed Successfully✔️
+2025-03-27T09:14:18.785006+00:00 app[worker.1]: deploy.js Installed Successfully✔️
+2025-03-27T09:14:18.786349+00:00 app[worker.1]: design.js Installed Successfully✔️
+2025-03-27T09:14:18.787664+00:00 app[worker.1]: dog.js Installed Successfully✔️
+2025-03-27T09:14:18.788864+00:00 app[worker.1]: dullah.js Installed Successfully✔️
+2025-03-27T09:14:18.790119+00:00 app[worker.1]: dullaht.js Installed Successfully✔️
+2025-03-27T09:14:18.791442+00:00 app[worker.1]: elod.js Installed Successfully✔️
+2025-03-27T09:14:18.792711+00:00 app[worker.1]: events.js Installed Successfully✔️
+2025-03-27T09:14:18.793978+00:00 app[worker.1]: events2.js Installed Successfully✔️
+2025-03-27T09:14:18.795360+00:00 app[worker.1]: fancy.js Installed Successfully✔️
+2025-03-27T09:14:18.796650+00:00 app[worker.1]: forward.js Installed Successfully✔️
+2025-03-27T09:14:18.797905+00:00 app[worker.1]: fpp.js Installed Successfully✔️
+2025-03-27T09:14:18.799247+00:00 app[worker.1]: friends.js Installed Successfully✔️
+2025-03-27T09:14:18.800475+00:00 app[worker.1]: frnews.js Installed Successfully✔️
+2025-03-27T09:14:18.802289+00:00 app[worker.1]: games.js Installed Successfully✔️
+2025-03-27T09:14:18.804121+00:00 app[worker.1]: getall.js Installed Successfully✔️
+2025-03-27T09:14:18.805385+00:00 app[worker.1]: groupe.js Installed Successfully✔️
+2025-03-27T09:14:18.806610+00:00 app[worker.1]: grp-set.js Installed Successfully✔️
+2025-03-27T09:14:18.807872+00:00 app[worker.1]: guy.js Installed Successfully✔️
+2025-03-27T09:14:18.809149+00:00 app[worker.1]: helper.js Installed Successfully✔️
+2025-03-27T09:14:18.810701+00:00 app[worker.1]: hentai.js Installed Successfully✔️
+2025-03-27T09:14:18.812051+00:00 app[worker.1]: hentai2.js Installed Successfully✔️
+2025-03-27T09:14:18.813347+00:00 app[worker.1]: humidity.js Installed Successfully✔️
+2025-03-27T09:14:18.814567+00:00 app[worker.1]: igdl-fb-tk.js Installed Successfully✔️
+2025-03-27T09:14:18.815853+00:00 app[worker.1]: img.js Installed Successfully✔️
+2025-03-27T09:14:18.817101+00:00 app[worker.1]: lama.js Installed Successfully✔️
+2025-03-27T09:14:18.818534+00:00 app[worker.1]: logo.js Installed Successfully✔️
+2025-03-27T09:14:18.819829+00:00 app[worker.1]: math.js Installed Successfully✔️
+2025-03-27T09:14:18.820186+00:00 app[worker.1]: menu.js Installed Successfully✔️
+2025-03-27T09:14:18.821406+00:00 app[worker.1]: metal.js Installed Successfully✔️
+2025-03-27T09:14:18.823152+00:00 app[worker.1]: mont.js Installed Successfully✔️
+2025-03-27T09:14:18.824851+00:00 app[worker.1]: movie.js Installed Successfully✔️
+2025-03-27T09:14:18.826201+00:00 app[worker.1]: oogs.js Installed Successfully✔️
+2025-03-27T09:14:18.827471+00:00 app[worker.1]: other.js Installed Successfully✔️
+2025-03-27T09:14:18.828766+00:00 app[worker.1]: owner1.js Installed Successfully✔️
+2025-03-27T09:14:18.829986+00:00 app[worker.1]: pair2.js Installed Successfully✔️
+2025-03-27T09:14:18.831288+00:00 app[worker.1]: parole.js Installed Successfully✔️
+2025-03-27T09:14:18.832577+00:00 app[worker.1]: pastebin.js Installed Successfully✔️
+2025-03-27T09:14:18.833848+00:00 app[worker.1]: pay.js Installed Successfully✔️
+2025-03-27T09:14:18.835244+00:00 app[worker.1]: play.js Installed Successfully✔️
+2025-03-27T09:14:18.836511+00:00 app[worker.1]: plot.js Installed Successfully✔️
+2025-03-27T09:14:18.837778+00:00 app[worker.1]: ponp.js Installed Successfully✔️
+2025-03-27T09:14:18.839072+00:00 app[worker.1]: profile.js Installed Successfully✔️
+2025-03-27T09:14:18.840297+00:00 app[worker.1]: proprio.js Installed Successfully✔️
+2025-03-27T09:14:18.841710+00:00 app[worker.1]: prx.js Installed Successfully✔️
+2025-03-27T09:14:18.843017+00:00 app[worker.1]: quote.js Installed Successfully✔️
+2025-03-27T09:14:18.844252+00:00 app[worker.1]: reaction.js Installed Successfully✔️
+2025-03-27T09:14:18.845530+00:00 app[worker.1]: rpt.js Installed Successfully✔️
+2025-03-27T09:14:18.846804+00:00 app[worker.1]: sc.js Installed Successfully✔️
+2025-03-27T09:14:18.848079+00:00 app[worker.1]: scan.js Installed Successfully✔️
+2025-03-27T09:14:18.849337+00:00 app[worker.1]: set.js Installed Successfully✔️
+2025-03-27T09:14:18.850672+00:00 app[worker.1]: setting.js Installed Successfully✔️
+2025-03-27T09:14:18.851162+00:00 app[worker.1]: smmapi.js Installed Successfully✔️
+2025-03-27T09:14:18.852412+00:00 app[worker.1]: solar.js Installed Successfully✔️
+2025-03-27T09:14:18.853643+00:00 app[worker.1]: stickcmd.js Installed Successfully✔️
+2025-03-27T09:14:18.854971+00:00 app[worker.1]: stickersearch.js Installed Successfully✔️
+2025-03-27T09:14:18.856265+00:00 app[worker.1]: style.js Installed Successfully✔️
+2025-03-27T09:14:18.857492+00:00 app[worker.1]: swidth.js Installed Successfully✔️
+2025-03-27T09:14:18.858785+00:00 app[worker.1]: system.js Installed Successfully✔️
+2025-03-27T09:14:18.860072+00:00 app[worker.1]: team.js Installed Successfully✔️
+2025-03-27T09:14:18.861401+00:00 app[worker.1]: teddy.js Installed Successfully✔️
+2025-03-27T09:14:18.862788+00:00 app[worker.1]: test.js Installed Successfully✔️
+2025-03-27T09:14:18.864083+00:00 app[worker.1]: trt.js Installed Successfully✔️
+2025-03-27T09:14:18.865334+00:00 app[worker.1]: tts.js Installed Successfully✔️
+2025-03-27T09:14:18.866603+00:00 app[worker.1]: ttt.js Installed Successfully✔️
+2025-03-27T09:14:18.867943+00:00 app[worker.1]: twi.js Installed Successfully✔️
+2025-03-27T09:14:18.869167+00:00 app[worker.1]: tyf.js Installed Successfully✔️
+2025-03-27T09:14:18.870446+00:00 app[worker.1]: uptime.js Installed Successfully✔️
+2025-03-27T09:14:18.871738+00:00 app[worker.1]: vars.js Installed Successfully✔️
+2025-03-27T09:14:18.872988+00:00 app[worker.1]: vc_files.js Installed Successfully✔️
+2025-03-27T09:14:18.874242+00:00 app[worker.1]: vcf.js Installed Successfully✔️
+2025-03-27T09:14:18.875515+00:00 app[worker.1]: voir.js Installed Successfully✔️
+2025-03-27T09:14:18.876781+00:00 app[worker.1]: voit.js Installed Successfully✔️
+2025-03-27T09:14:18.878017+00:00 app[worker.1]: wallpaper.js Installed Successfully✔️
+2025-03-27T09:14:18.879330+00:00 app[worker.1]: warn.js Installed Successfully✔️
+2025-03-27T09:14:18.880604+00:00 app[worker.1]: weather.js Installed Successfully✔️
+2025-03-27T09:14:18.882407+00:00 app[worker.1]: weeb.js Installed Successfully✔️
+2025-03-27T09:14:18.883862+00:00 app[worker.1]: wees.js Installed Successfully✔️
+2025-03-27T09:14:18.885101+00:00 app[worker.1]: whois.js Installed Successfully✔️
+2025-03-27T09:14:18.888042+00:00 app[worker.1]: youtube.js Installed Successfully✔️
+2025-03-27T09:14:18.889257+00:00 app[worker.1]: yt-search.js Installed Successfully✔️
+2025-03-27T09:14:18.890470+00:00 app[worker.1]: zgpt.js Installed Successfully✔️
+2025-03-27T09:14:18.890545+00:00 app[worker.1]: Commands Installation Completed ✅
+2025-03-27T09:14:18.984443+00:00 app[worker.1]: ❌ Error loading Lt.js: Request failed with status code 404
+2025-03-27T09:14:18.985162+00:00 app[worker.1]: ❌ Error loading accapitalgm.js: Request failed with status code 404
+2025-03-27T09:14:18.986745+00:00 app[worker.1]: ❌ Error loading anti-sticker.js: Request failed with status code 404
+2025-03-27T09:14:18.987966+00:00 app[worker.1]: ❌ Error loading canvascord.js: Request failed with status code 404
+2025-03-27T09:14:18.990621+00:00 app[worker.1]: ✅ fancy.js fetched and loaded successfully!
+2025-03-27T09:14:18.990902+00:00 app[worker.1]: ❌ Error loading fancy.js: Cannot find module '../commandes/style'
+2025-03-27T09:14:18.990902+00:00 app[worker.1]: Require stack:
+2025-03-27T09:14:18.990902+00:00 app[worker.1]: - /app/dullah/fancy.js
+2025-03-27T09:14:18.990902+00:00 app[worker.1]: - /app/index.js
+2025-03-27T09:14:18.992779+00:00 app[worker.1]: ✅ img.js fetched and loaded successfully!
+2025-03-27T09:14:19.143761+00:00 app[worker.1]: ❌ Error loading lama.js: Request failed with status code 404
+2025-03-27T09:14:19.144565+00:00 app[worker.1]: ❌ Error loading metal.js: Request failed with status code 404
+2025-03-27T09:14:19.144847+00:00 app[worker.1]: ✅ movie.js fetched and loaded successfully!
+2025-03-27T09:14:19.146066+00:00 app[worker.1]: ❌ Error loading pay.js: Request failed with status code 404
+2025-03-27T09:14:19.157658+00:00 app[worker.1]: ❌ Error loading bine.js: Request failed with status code 404
+2025-03-27T09:14:19.158652+00:00 app[worker.1]: ❌ Error loading setting.js: Request failed with status code 404
+2025-03-27T09:14:19.159483+00:00 app[worker.1]: ❌ Error loading frnews.js: Request failed with status code 404
+2025-03-27T09:14:19.161204+00:00 app[worker.1]: ❌ Error loading beb.js: Request failed with status code 404
+2025-03-27T09:14:19.161605+00:00 app[worker.1]: ❌ Error loading igdl-fb-tk.js: Request failed with status code 404
+2025-03-27T09:14:19.162528+00:00 app[worker.1]: ✅ solar.js fetched and loaded successfully!
+2025-03-27T09:14:19.163370+00:00 app[worker.1]: ❌ Error loading blocklist.js: Request failed with status code 404
+2025-03-27T09:14:19.163804+00:00 app[worker.1]: ✅ proprio.js fetched and loaded successfully!
+2025-03-27T09:14:19.166455+00:00 app[worker.1]: ✅ anti-spam.js fetched and loaded successfully!
+2025-03-27T09:14:19.184632+00:00 app[worker.1]: ✅ AI2.js fetched and loaded successfully!
+2025-03-27T09:14:19.208599+00:00 app[worker.1]: ✅ General.js fetched and loaded successfully!
+2025-03-27T09:14:19.210162+00:00 app[worker.1]: ✅ GroupQuotes.js fetched and loaded successfully!
+2025-03-27T09:14:19.210383+00:00 app[worker.1]: ✅ ahack.js fetched and loaded successfully!
+2025-03-27T09:14:19.210655+00:00 app[worker.1]: ✅ anime.js fetched and loaded successfully!
+2025-03-27T09:14:19.211226+00:00 app[worker.1]: ✅ boom.js fetched and loaded successfully!
+2025-03-27T09:14:19.211479+00:00 app[worker.1]: ✅ bug.js fetched and loaded successfully!
+2025-03-27T09:14:19.212008+00:00 app[worker.1]: ✅ chanel.js fetched and loaded successfully!
+2025-03-27T09:14:19.212076+00:00 app[worker.1]: ❌ Error loading chanel.js: Unexpected token '}'
+2025-03-27T09:14:19.212171+00:00 app[worker.1]: ✅ chatbot.js fetched and loaded successfully!
+2025-03-27T09:14:19.212445+00:00 app[worker.1]: ✅ delnote.js fetched and loaded successfully!
+2025-03-27T09:14:19.212490+00:00 app[worker.1]: ❌ Error loading delnote.js: Invalid or unexpected token
+2025-03-27T09:14:19.212576+00:00 app[worker.1]: ✅ deploy.js fetched and loaded successfully!
+2025-03-27T09:14:19.212956+00:00 app[worker.1]: ✅ dog.js fetched and loaded successfully!
+2025-03-27T09:14:19.213235+00:00 app[worker.1]: ✅ events.js fetched and loaded successfully!
+2025-03-27T09:14:19.213496+00:00 app[worker.1]: ✅ events2.js fetched and loaded successfully!
+2025-03-27T09:14:19.213800+00:00 app[worker.1]: ❌ Error loading events2.js: Cannot find module '../france/king'
+2025-03-27T09:14:19.213801+00:00 app[worker.1]: Require stack:
+2025-03-27T09:14:19.213801+00:00 app[worker.1]: - /app/dullah/events2.js
+2025-03-27T09:14:19.213802+00:00 app[worker.1]: - /app/index.js
+2025-03-27T09:14:19.213934+00:00 app[worker.1]: ✅ fpp.js fetched and loaded successfully!
+2025-03-27T09:14:19.214729+00:00 app[worker.1]: ✅ friends.js fetched and loaded successfully!
+2025-03-27T09:14:19.215039+00:00 app[worker.1]: ✅ guy.js fetched and loaded successfully!
+2025-03-27T09:14:19.216063+00:00 app[worker.1]: ✅ hentai2.js fetched and loaded successfully!
+2025-03-27T09:14:19.216459+00:00 app[worker.1]: ✅ parole.js fetched and loaded successfully!
+2025-03-27T09:14:19.229305+00:00 app[worker.1]: ✅ pastebin.js fetched and loaded successfully!
+2025-03-27T09:14:19.229662+00:00 app[worker.1]: ✅ profile.js fetched and loaded successfully!
+2025-03-27T09:14:19.229915+00:00 app[worker.1]: ✅ reaction.js fetched and loaded successfully!
+2025-03-27T09:14:19.230433+00:00 app[worker.1]: ✅ owner1.js fetched and loaded successfully!
+2025-03-27T09:14:19.232807+00:00 app[worker.1]: ❌ Error loading youtube.js: Request failed with status code 404
+2025-03-27T09:14:19.235006+00:00 app[worker.1]: ❌ Error loading voir.js: Request failed with status code 404
+2025-03-27T09:14:19.237017+00:00 app[worker.1]: ❌ Error loading tyf.js: Request failed with status code 404
+2025-03-27T09:14:19.238745+00:00 app[worker.1]: ✅ AI.js fetched and loaded successfully!
+2025-03-27T09:14:19.240006+00:00 app[worker.1]: ✅ oogs.js fetched and loaded successfully!
+2025-03-27T09:14:19.240400+00:00 app[worker.1]: ✅ plot.js fetched and loaded successfully!
+2025-03-27T09:14:19.240662+00:00 app[worker.1]: ✅ dullaht.js fetched and loaded successfully!
+2025-03-27T09:14:19.383094+00:00 app[worker.1]: ✅ GPT.js fetched and loaded successfully!
+2025-03-27T09:14:19.383185+00:00 app[worker.1]: ❌ Error loading GPT.js: Unexpected identifier 'Gpt'
+2025-03-27T09:14:19.383312+00:00 app[worker.1]: ✅ grp-set.js fetched and loaded successfully!
+2025-03-27T09:14:19.383601+00:00 app[worker.1]: ✅ prx.js fetched and loaded successfully!
+2025-03-27T09:14:19.384138+00:00 app[worker.1]: ✅ ponp.js fetched and loaded successfully!
+2025-03-27T09:14:19.384521+00:00 app[worker.1]: ✅ anti-delete.js fetched and loaded successfully!
+2025-03-27T09:14:19.384814+00:00 app[worker.1]: ✅ ans.js fetched and loaded successfully!
+2025-03-27T09:14:19.384907+00:00 app[worker.1]: ❌ Error loading ans.js: Identifier 'zokou' has already been declared
+2025-03-27T09:14:19.385010+00:00 app[worker.1]: ✅ quote.js fetched and loaded successfully!
+2025-03-27T09:14:19.385193+00:00 app[worker.1]: ✅ rpt.js fetched and loaded successfully!
+2025-03-27T09:14:19.385512+00:00 app[worker.1]: ✅ sc.js fetched and loaded successfully!
+2025-03-27T09:14:19.385981+00:00 app[worker.1]: ✅ scan.js fetched and loaded successfully!
+2025-03-27T09:14:19.386580+00:00 app[worker.1]: ✅ antifake.js fetched and loaded successfully!
+2025-03-27T09:14:19.386924+00:00 app[worker.1]: ✅ dullah.js fetched and loaded successfully!
+2025-03-27T09:14:19.387352+00:00 app[worker.1]: ✅ hentai.js fetched and loaded successfully!
+2025-03-27T09:14:19.388635+00:00 app[worker.1]: ✅ elod.js fetched and loaded successfully!
+2025-03-27T09:14:19.389170+00:00 app[worker.1]: ✅ cricket.js fetched and loaded successfully!
+2025-03-27T09:14:19.389489+00:00 app[worker.1]: ✅ games.js fetched and loaded successfully!
+2025-03-27T09:14:19.389920+00:00 app[worker.1]: ✅ afk.js fetched and loaded successfully!
+2025-03-27T09:14:19.390098+00:00 app[worker.1]: ❌ Error loading afk.js: Cannot find module '../bdd/afk'
+2025-03-27T09:14:19.390099+00:00 app[worker.1]: Require stack:
+2025-03-27T09:14:19.390099+00:00 app[worker.1]: - /app/dullah/afk.js
+2025-03-27T09:14:19.390100+00:00 app[worker.1]: - /app/index.js
+2025-03-27T09:14:19.390202+00:00 app[worker.1]: ✅ other.js fetched and loaded successfully!
+2025-03-27T09:14:19.390394+00:00 app[worker.1]: ✅ zgpt.js fetched and loaded successfully!
+2025-03-27T09:14:19.390677+00:00 app[worker.1]: ✅ vc_files.js fetched and loaded successfully!
+2025-03-27T09:14:19.398219+00:00 app[worker.1]: ✅ set.js fetched and loaded successfully!
+2025-03-27T09:14:19.399561+00:00 app[worker.1]: ❌ Error loading set.js: keith is not defined
+2025-03-27T09:14:19.400270+00:00 app[worker.1]: ✅ wallpaper.js fetched and loaded successfully!
+2025-03-27T09:14:19.400749+00:00 app[worker.1]: mon test
+2025-03-27T09:14:19.400907+00:00 app[worker.1]: ✅ uptime.js fetched and loaded successfully!
+2025-03-27T09:14:19.401287+00:00 app[worker.1]: ✅ weeb.js fetched and loaded successfully!
+2025-03-27T09:14:19.401717+00:00 app[worker.1]: ✅ wees.js fetched and loaded successfully!
+2025-03-27T09:14:19.402117+00:00 app[worker.1]: ✅ weather.js fetched and loaded successfully!
+2025-03-27T09:14:19.402180+00:00 app[worker.1]: ❌ Error loading weather.js: Identifier 'textw' has already been declared
+2025-03-27T09:14:19.402271+00:00 app[worker.1]: ✅ warn.js fetched and loaded successfully!
+2025-03-27T09:14:19.403247+00:00 app[worker.1]: ✅ test.js fetched and loaded successfully!
+2025-03-27T09:14:19.403407+00:00 app[worker.1]: mon test
+2025-03-27T09:14:19.403534+00:00 app[worker.1]: ✅ team.js fetched and loaded successfully!
+2025-03-27T09:14:19.403935+00:00 app[worker.1]: ✅ stickcmd.js fetched and loaded successfully!
+2025-03-27T09:14:19.405013+00:00 app[worker.1]: ✅ system.js fetched and loaded successfully!
+2025-03-27T09:14:19.405368+00:00 app[worker.1]: ❌ Error loading system.js: Cannot find module '../Dullah/md'
+2025-03-27T09:14:19.405369+00:00 app[worker.1]: Require stack:
+2025-03-27T09:14:19.405370+00:00 app[worker.1]: - /app/dullah/system.js
+2025-03-27T09:14:19.405370+00:00 app[worker.1]: - /app/index.js
+2025-03-27T09:14:19.405495+00:00 app[worker.1]: ✅ ttt.js fetched and loaded successfully!
+2025-03-27T09:14:19.405759+00:00 app[worker.1]: ✅ tts.js fetched and loaded successfully!
+2025-03-27T09:14:19.406070+00:00 app[worker.1]: ✅ twi.js fetched and loaded successfully!
+2025-03-27T09:14:19.406387+00:00 app[worker.1]: ✅ stickersearch.js fetched and loaded successfully!
+2025-03-27T09:14:19.407606+00:00 app[worker.1]: ✅ mont.js fetched and loaded successfully!
+2025-03-27T09:14:19.408921+00:00 app[worker.1]: ✅ trt.js fetched and loaded successfully!
+2025-03-27T09:14:19.409832+00:00 app[worker.1]: ✅ audioedit.js fetched and loaded successfully!
+2025-03-27T09:14:19.410372+00:00 app[worker.1]: ✅ teddy.js fetched and loaded successfully!
+2025-03-27T09:14:19.410692+00:00 app[worker.1]: ✅ yt-search.js fetched and loaded successfully!
+2025-03-27T09:14:19.413004+00:00 app[worker.1]: ❌ Error loading yt-search.js: Unexpected string
+2025-03-27T09:14:19.413137+00:00 app[worker.1]: ✅ getall.js fetched and loaded successfully!
+2025-03-27T09:14:19.418091+00:00 app[worker.1]: ✅ Mods.js fetched and loaded successfully!
+2025-03-27T09:14:19.419360+00:00 app[worker.1]: ✅ swidth.js fetched and loaded successfully!
+2025-03-27T09:14:19.420305+00:00 app[worker.1]: ✅ Media_dl.js fetched and loaded successfully!
+2025-03-27T09:14:19.824613+00:00 app[worker.1]: ✅ conversation.js fetched and loaded successfully!
+2025-03-27T09:14:19.837778+00:00 app[worker.1]: ✅ forward.js fetched and loaded successfully!
+2025-03-27T09:14:19.932152+00:00 app[worker.1]: ✅ play.js fetched and loaded successfully!
+2025-03-27T09:14:19.940778+00:00 app[worker.1]: ✅ deobfuscate.js fetched and loaded successfully!
+2025-03-27T09:14:19.959901+00:00 app[worker.1]: ❌ Error loading deobfuscate.js: Cannot find module '../keizzah/keith'
+2025-03-27T09:14:19.959902+00:00 app[worker.1]: Require stack:
+2025-03-27T09:14:19.959903+00:00 app[worker.1]: - /app/dullah/deobfuscate.js
+2025-03-27T09:14:19.959903+00:00 app[worker.1]: - /app/index.js
+2025-03-27T09:14:19.960443+00:00 app[worker.1]: ✅ alive.js fetched and loaded successfully!
+2025-03-27T09:14:19.969868+00:00 app[worker.1]: WhatsApp bot is ready!
+2025-03-27T09:14:19.970434+00:00 app[worker.1]: ✅ style.js fetched and loaded successfully!
+2025-03-27T09:14:19.972980+00:00 app[worker.1]: ✅ pair2.js fetched and loaded successfully!
+2025-03-27T09:14:19.981252+00:00 app[worker.1]: ✅ apk.js fetched and loaded successfully!
+2025-03-27T09:14:19.990152+00:00 app[worker.1]: ✅ voit.js fetched and loaded successfully!
+2025-03-27T09:14:20.004828+00:00 app[worker.1]: ✅ vars.js fetched and loaded successfully!
+2025-03-27T09:14:20.013535+00:00 app[worker.1]: ✅ vcf.js fetched and loaded successfully!
